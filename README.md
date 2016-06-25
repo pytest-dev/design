@@ -5,6 +5,11 @@
 * [pytest_logo.svg](https://github.com/kvas-it/pytest-design/blob/master/pytest_logo.svg)	- Orignal. This one is better for editing.
 * [pytest_logo_curves.svg](https://github.com/kvas-it/pytest-design/blob/master/pytest_logo_curves.svg) - Version with text converted to curves. This one is better for reliable printing.
 
+## Sticker design for Pytest 3.0 sprint
+
+* [asserts_before_reverts.svg](https://github.com/kvas-it/pytest-design/blob/master/asserts_before_reverts.svg) - Original.
+* [asserts_before_reverts_curves.svg](https://github.com/kvas-it/pytest-design/blob/master/asserts_before_reverts_curves.svg) - With text converted to curves. For printing.
+
 ## T-shirt design for Pytest 3.0 sprint
 
 * [test_tshirt.svg](https://github.com/kvas-it/pytest-design/blob/master/test_tshirt.svg)	- Original. Better for editing.
