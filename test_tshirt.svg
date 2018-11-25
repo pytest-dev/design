@@ -5,29 +5,29 @@
     <path d="M0,0 L841.89,0 L841.89,1190.551 L0,1190.551 L0,0 z" fill="#000000"/>
   </g>
   <g id="test_run">
-    <text transform="matrix(1, 0, 0, 1, 426.48, 589)" font-family="SourceCodePro-Medium, monospace" font-size="39" fill="#fff">
-      <tspan x="-402" y="-526" fill="#11AE0F">$ </tspan>
-      <tspan x="-355.2" y="-526">pytest</tspan>
-      <tspan x="-402" y="-477">======= test session starts ======</tspan>
-      <tspan x="-402" y="-428">collected 30 items</tspan>
-      <tspan x="-402" y="-330">test_fabric.py ....</tspan>
-      <tspan x="-402" y="-281">test_threading.py ...</tspan>
-      <tspan x="-402" y="-232">test_size.py ....</tspan>
-      <tspan x="-402" y="-183">test_colors.py .....</tspan>
-      <tspan x="-402" y="-134">test_sleeves.py ..</tspan>
-      <tspan x="-402" y="-85">test_collar.py ...</tspan>
-      <tspan x="-402" y="-36">test_print.py ..</tspan>
-      <tspan x="-402" y="13">test_orientation.py ..</tspan>
-      <tspan x="-402" y="62">test_tshirt.py .....</tspan>
-      <tspan x="-402" y="160">----------- coverage -------------</tspan>
-      <tspan x="393.6" y="160">       </tspan>
-      <tspan x="-402" y="209">Name            Stmts  Miss  Cover</tspan>
-      <tspan x="-402" y="258">----------------------------------</tspan>
-      <tspan x="-402" y="307">human/arms.py     235   165    30% </tspan>
-      <tspan x="-402" y="356">human/torso.py    346     0   100%</tspan>
-      <tspan x="-402" y="405">----------------------------------</tspan>
-      <tspan x="-402" y="454">TOTAL             581   165    72%</tspan>
-      <tspan x="-402" y="552" fill="#12AE10">=== 30 passed in 20.16 seconds ===</tspan>
+    <text font-family="SourceCodePro-Medium, monospace" font-size="39" fill="#fff">
+      <tspan x="24.5" y="63" fill="#11AE0F">$ </tspan>
+      <tspan x="71.3" y="63">pytest</tspan>
+      <tspan x="24.5" y="112">======= test session starts ======</tspan>
+      <tspan x="24.5" y="161">collected 30 items</tspan>
+      <tspan x="24.5" y="259">test_fabric.py ....</tspan>
+      <tspan x="24.5" y="308">test_threading.py ...</tspan>
+      <tspan x="24.5" y="357">test_size.py ....</tspan>
+      <tspan x="24.5" y="406">test_colors.py .....</tspan>
+      <tspan x="24.5" y="455">test_sleeves.py ..</tspan>
+      <tspan x="24.5" y="504">test_collar.py ...</tspan>
+      <tspan x="24.5" y="553">test_print.py ..</tspan>
+      <tspan x="24.5" y="602">test_orientation.py ..</tspan>
+      <tspan x="24.5" y="651">test_tshirt.py .....</tspan>
+      <tspan x="24.5" y="749">----------- coverage -------------</tspan>
+      <tspan x="820.1" y="749">       </tspan>
+      <tspan x="24.5" y="798">Name            Stmts  Miss  Cover</tspan>
+      <tspan x="24.5" y="847">----------------------------------</tspan>
+      <tspan x="24.5" y="896">human/arms.py     235   165    30% </tspan>
+      <tspan x="24.5" y="945">human/torso.py    346     0   100%</tspan>
+      <tspan x="24.5" y="994">----------------------------------</tspan>
+      <tspan x="24.5" y="1043">TOTAL             581   165    72%</tspan>
+      <tspan x="24.5" y="1141" fill="#12AE10">=== 30 passed in 20.16 seconds ===</tspan>
     </text>
   </g>
 </svg>
