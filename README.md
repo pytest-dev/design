@@ -8,6 +8,7 @@ Fonts used: [Droid Sans](https://www.google.com/fonts/specimen/Droid+Sans) (Apac
 
 * [pytest_logo.svg](https://github.com/pytest-dev/pytest-design/blob/master/pytest_logo/pytest_logo.svg)	- Orignal. This one is better for editing.
 * [pytest_logo_curves.svg](https://github.com/pytest-dev/pytest-design/blob/master/pytest_logo/pytest_logo_curves.svg) - Version with text converted to curves. This one is better for reliable printing.
+* [pytest_logo_notext.svg](https://github.com/pytest-dev/pytest-design/blob/master/pytest_logo/pytest_logo_notext.svg) - Only the flute, without the "pytest" text.
 
 ## Sticker design for Pytest 3.0 sprint
 
